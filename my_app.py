@@ -45,7 +45,7 @@ with st.sidebar:
         time.sleep(5)
     st.success("Done!")
 
-tab1, tab2, tab3 = st.tabs(["Mushuk", "Kuchuk", "Boyo'gli (Boyqush)"])
+tab1, tab2, tab3 = st.tabs(["Mushuk", "Kuchuk", "Boyo'g'li (Boyqush)"])
 
 with tab1:
    st.header("A cat")
